@@ -25,4 +25,4 @@ go build -o GoModChecker
 ```bach
 ./GoModChecker -repo=https://github.com/user/project
 ```
-где `https://github.com/user/project.git` - репозиторий для проверки (**user** необходимо заменить на пользователя, а **project** - на название проекта).
+где `https://github.com/user/project` - репозиторий для проверки (**user** необходимо заменить на пользователя, а **project** - на название проекта).
